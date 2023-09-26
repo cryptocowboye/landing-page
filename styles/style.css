@@ -3,5 +3,67 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 15%;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+ul li {
+    margin: 0px 5px;
+}
+
+li a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.logo-links {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 5%;
+    align-items: center;
+}
+
+.hero {
+    padding: 2em 0px;
+    margin: 0px 5%;
+    display: flex;
+    min-height: 166.15px;
+    justify-content: space-between;
+}
+
+.hero .hero-text {
+    width: 35%;
+}
+
+img {
+    height: auto;
+    width: 250px;
+    align-self: center;
+}
+
+button {
+    padding: 5px 20px;
+    border-radius: 5px;
+    background-color: #3882f6;
+    color: white;
+    font-weight: 700;
 }
 
