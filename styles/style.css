@@ -67,3 +67,49 @@ button {
     font-weight: 700;
 }
 
+
+
+.upper-part h3 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.cards {
+    display: flex;
+    width: 55%;
+    margin: 0px auto 5rem;
+}
+
+.card-individual {
+    margin: 0px 10px;
+}
+
+.card-image {
+    border: 2px solid #3882f6;
+    height: 8rem;
+    border-radius: 5px;
+}
+
+.card-text {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 0.7rem;
+}
+
+.middle-part {
+    background-color: #e5e7eb;
+    padding: 100px;
+}
+
+.paragraph {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quote {
+    text-align: end;
+    margin-top: 25px;
+    font-weight: 700;
+    font-size: 25px;
+}
