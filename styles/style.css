@@ -105,6 +105,7 @@ button {
 .paragraph {
     font-size: 36px;
     font-style: italic;
+    width: 80%;
 }
 
 .quote {
