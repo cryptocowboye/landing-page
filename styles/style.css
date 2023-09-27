@@ -141,3 +141,10 @@ button {
     font-size: 0.7rem;
     margin-top: 5px;
 }
+
+footer {
+    background-color: #1F2937;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
