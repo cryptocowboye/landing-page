@@ -115,3 +115,29 @@ button {
     font-weight: 700;
     font-size: 25px;
 }
+
+.lower-part {
+    padding: 100px;
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    background-color: #3882f6;
+    border-radius: 5px;
+}
+
+.box-heading,
+.box-sentence {
+    color: white;
+}
+
+.box-heading {
+    font-weight: 700;
+}
+
+.box-sentence {
+    font-size: 0.7rem;
+    margin-top: 5px;
+}
