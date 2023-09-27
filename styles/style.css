@@ -106,6 +106,7 @@ button {
     font-size: 36px;
     font-style: italic;
     width: 80%;
+    margin: 0px auto;
 }
 
 .quote {
